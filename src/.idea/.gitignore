@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/modules.xml/
+/misc.xml/
+/vcs.xml/
+/uiDesigner.xml/
+/.gitignore/
+# Ignore all class files
+* /.class/
