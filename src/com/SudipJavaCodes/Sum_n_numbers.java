@@ -2,7 +2,7 @@ package com.SudipJavaCodes;
 
 import java.util.Scanner;
 public class Sum_n_numbers {
-    public static void main(String args[]) {
+    public static void main(String[]args) {
         int sum = 0;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the value of n: ");
